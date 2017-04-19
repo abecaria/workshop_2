@@ -24,3 +24,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+Listen my children and you shall hear  
+Of the midnight ride of Paul Revere,  
+On the eighteenth of April, in Seventy-five;  
+Hardly a man is now alive  
+Who remembers that famous day and year.  
+
+He said to his friend, "If the British march  
+By land or sea from the town to-night,  
+Hang a lantern aloft in the belfry arch  
+Of the North Church tower as a signal light,--  
